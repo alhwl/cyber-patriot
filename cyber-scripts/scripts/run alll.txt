@@ -1,0 +1,16 @@
+./AdminTemp.ps1
+./AdminTemplates.ps1
+./admin_settings.ps1
+./admin_template.ps1
+./AdvancedAudit.ps1
+./ChangeAllPasswords.ps1
+./Delivery.ps1
+./FireFox.ps1
+./FireWall.ps1
+./Network.ps1
+./password.ps1
+./SecurityOptions.ps1
+./UserRights.ps1
+./WindowsServices.ps1
+./WindwosInstaller.ps1
+
